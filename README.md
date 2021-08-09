@@ -24,7 +24,7 @@ With a p-value of 0.06, we are able to assume that our mean is statistically sim
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/81697076/128651052-943ccb11-6d19-4634-bb66-e12e0d7f1b4d.png)
 
-When looking at each lot individually, we see that lot 3 has a p-value of 0.04, which lets us assume that its mean is statistically different from the population mean.
+When looking at each lot individually, lot 1 and 2 have a high enough p-value to consider them statistically similar to the population. However, we see that lot 3 has a p-value of 0.04, which lets us assume that its mean is statistically different from the population mean.
 
 
 ## Study Design: MechaCar vs Competition
