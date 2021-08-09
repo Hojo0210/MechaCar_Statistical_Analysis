@@ -3,8 +3,8 @@
 ## Linear Regression to Predict MPG
 ![Screenshot (25)](https://user-images.githubusercontent.com/81697076/128651034-505f76e3-6c6b-45a7-9662-ea913a35297b.png)
 
-With a statistically significant vehicle length and ground clearance, we can assume that they provide a non-random amount of variance to the mpg values in the dataset. Therefore, they should have a significant impact on mpg. The statistic significance of the intercept could mean that our significant features may need scaling or transforming, or that there may be other variables that are significant but have not been included in our model. The low p-value (< 5%) lets us assume that the slope is not zero.
-
+With a statistically significant vehicle length and ground clearance, we can assume that they provide a non-random amount of variance to the mpg values in the dataset. Therefore, they should have a significant impact on mpg. The statistic significance of the intercept could mean that our significant features may need scaling or transforming, or that there may be other variables that are significant but have not been included in our model. The low p-value (< 5%) lets us assume that the slope is not zero. The r-squared 
+value of 0.7149 tells us that ~71% of the variablity of our mpg is explained using this model.
 
 ##Summary Statistics on Suspension Coils
 ![Screenshot (26)](https://user-images.githubusercontent.com/81697076/128651041-b21dc1b4-037e-46da-a094-cc5aaa52a22f.png)
