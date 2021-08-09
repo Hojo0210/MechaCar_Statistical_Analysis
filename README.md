@@ -20,7 +20,7 @@ However, when we look at each lot individually we can see that lot 3 has a varia
 ## T-Tests on Suspension Coils
 ![Screenshot (29)](https://user-images.githubusercontent.com/81697076/128651046-003d91ed-6248-4618-86db-abc829ec95dd.png)
 
-With a p-value of 0.06, we are able to assume that our mean is statistically similar to the population mean of 1,500.
+With a p-value of 0.06, we are able to assume that our mean for all 3 lots is statistically similar to the population mean of 1,500.
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/81697076/128651052-943ccb11-6d19-4634-bb66-e12e0d7f1b4d.png)
 
